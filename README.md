@@ -1,11 +1,14 @@
-Hi! 👋 I'm Abid 💻.
+# Hi! 👋 I'm Abid 💻
 
-Full Stack Developer | React | NodeJs | Express | Tailwind | Java | C++ | Mongodb | Postgres 
+### 🚀 Full Stack Developer
+**React | Node.js | Express | Tailwind | Java | C++ | MongoDB | PostgreSQL**
 
-Curious About things Learning New Things Everyday
+💡 Curious about new technologies & learning every day  
+🔥 Passionate about building apps and contributing to projects  
 
-Passionate About building Apps and contributing to Projects
+---
 
+## 🌐 Connect with me  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=firefox&logoColor=white)](https://muhammad-abid-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/muhammad-abid-me1/))
