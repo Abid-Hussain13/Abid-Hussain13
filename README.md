@@ -1,10 +1,10 @@
 # Hi! 👋 I'm Abid 💻
 
-### 🚀 Full Stack Developer
-**React | Node.js | Express | Tailwind | Java | C++ | MongoDB | PostgreSQL | Typescript**
+### 🚀 Full Stack Developer / AI Engineer
+**React | Node.js | Express | Tailwind | Java | C++ | MongoDB | PostgreSQL | Typescript | LLM Integration**
 
 💡 Curious about new technologies & learning every day  
-🔥 Passionate about building apps and contributing to projects  
+🔥 Passionate about building apps integrating ai and contributing to projects  
 
 ---
 
